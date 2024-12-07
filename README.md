@@ -189,7 +189,8 @@ Execute the program using runserver command.
 </html>
 ```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/190d154c-ea19-494d-9735-cb1ed8346304)
+![Screenshot (95)](https://github.com/user-attachments/assets/b2421f83-5b83-481c-806c-176552b13431)
+
 
 
 # RESULT
